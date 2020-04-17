@@ -1,11 +1,13 @@
 
 # CICD
 
+Created an AWS CICD pipeline to place this application into it, thus automating it's builds in the cloud as we merge into Master, we used github hooks integrated with AWS CodeBuild, CodeDeploy and AWS BeanStalk 
+
 ![On React Front-end](./CICD-Architecture.png)
 
-This application helps employees track their business relate expense and report the expense to management.
-
 # Application - unrelated
+
+This application helps employees track their business relate expense and report the expense to management.
 
 How to run the app:
 
