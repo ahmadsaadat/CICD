@@ -1,10 +1,11 @@
 
 # CICD
 
-<img src="" alt="Logo">
+![On React Front-end](./CICD-Architecture.png)
 
 This application helps employees track their business relate expense and report the expense to management.
 
+# Application - unrelated
 
 How to run the app:
 
